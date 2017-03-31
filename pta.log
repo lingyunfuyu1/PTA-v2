@@ -1,0 +1,1487 @@
+2017-03-20 13:08:16 [INFO] [pta_run.py(137): main] PID-33412 There are 2 cases. [task_list.txt]
+2017-03-20 13:08:16 [INFO] [pta_run.py(79): perform_and_collect] PID-33412 [Task-0: 1-helloworld] Performing testing...
+2017-03-20 13:08:16 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-33412 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:09:06 [INFO] [pta_run.py(137): main] PID-33940 There are 2 cases. [task_list.txt]
+2017-03-20 13:09:06 [INFO] [pta_run.py(79): perform_and_collect] PID-33940 [Task-0: 1-helloworld] Performing testing...
+2017-03-20 13:09:07 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-33940 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:09:44 [INFO] [pta_run.py(79): perform_and_collect] PID-33940 [Task-0: 2-helloworld] Performing testing...
+2017-03-20 13:09:44 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-33940 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:11:39 [INFO] [pta_run.py(134): main] PID-21964 There is only 1 case. [task_list.txt]
+2017-03-20 13:11:39 [INFO] [pta_run.py(79): perform_and_collect] PID-21964 [Task-0: 1-call_java_method_test] Performing testing...
+2017-03-20 13:11:39 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-21964 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:12:35 [INFO] [pta_run.py(140): main] PID-34324 There are 2 cases. [task_list.txt]
+2017-03-20 13:12:35 [INFO] [pta_run.py(79): perform_and_collect] PID-34324 [Task-0: 1-call_java_method_test] Performing testing...
+2017-03-20 13:12:35 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-34324 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:13:11 [INFO] [pta_run.py(79): perform_and_collect] PID-34324 [Task-0: 2-helloworld] Performing testing...
+2017-03-20 13:13:11 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-34324 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:27:32 [INFO] [pta_run.py(81): perform_and_collect] PID-36460 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-20 13:27:32 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-36460 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:28:07 [INFO] [pta_run.py(84): perform_and_collect] PID-36460 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-20 13:28:07 [INFO] [pta_run.py(86): perform_and_collect] PID-36460 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-20 13:28:07 [INFO] [pta_run.py(88): perform_and_collect] PID-36460 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-20 13:28:07 [INFO] [pta_run.py(95): single_case_once_run] PID-36460 [Task: 1-call_java_method_test] generate_html_report is starting...
+2017-03-20 13:28:07 [INFO] [pta_run.py(97): single_case_once_run] PID-36460 [Task: 1-call_java_method_test] generate_html_report is finished...
+2017-03-20 13:28:07 [INFO] [pta_run.py(81): perform_and_collect] PID-36460 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-20 13:28:07 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-36460 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:28:44 [INFO] [pta_run.py(84): perform_and_collect] PID-36460 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-20 13:28:44 [INFO] [pta_run.py(86): perform_and_collect] PID-36460 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-20 13:28:44 [INFO] [pta_run.py(88): perform_and_collect] PID-36460 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-20 13:28:44 [INFO] [pta_run.py(95): single_case_once_run] PID-36460 [Task: 2-helloworld] generate_html_report is starting...
+2017-03-20 13:28:44 [INFO] [pta_run.py(97): single_case_once_run] PID-36460 [Task: 2-helloworld] generate_html_report is finished...
+2017-03-20 13:28:45 [INFO] [pta_run.py(81): perform_and_collect] PID-36460 [Task: 3-helloworld] pta_core.perform is starting...
+2017-03-20 13:28:45 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-36460 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-20 13:29:20 [INFO] [pta_run.py(84): perform_and_collect] PID-36460 [Task: 3-helloworld] pta_core.perform is finished.
+2017-03-20 13:29:20 [INFO] [pta_run.py(86): perform_and_collect] PID-36460 [Task: 3-helloworld] collect_testing_result is starting...
+2017-03-20 13:29:20 [INFO] [pta_run.py(88): perform_and_collect] PID-36460 [Task: 3-helloworld] collect_testing_result is finished...
+2017-03-20 13:29:20 [INFO] [pta_run.py(95): single_case_once_run] PID-36460 [Task: 3-helloworld] generate_html_report is starting...
+2017-03-20 13:29:20 [INFO] [pta_run.py(97): single_case_once_run] PID-36460 [Task: 3-helloworld] generate_html_report is finished...
+2017-03-23 17:07:55 [INFO] [pta_run.py(82): perform_and_collect] PID-62536 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:07:56 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-62536 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:08:34 [INFO] [pta_run.py(85): perform_and_collect] PID-62536 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:08:34 [INFO] [pta_run.py(87): perform_and_collect] PID-62536 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:08:34 [INFO] [pta_run.py(89): perform_and_collect] PID-62536 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:08:34 [INFO] [pta_run.py(101): single_case_once_run] PID-62536 [Task: 1-call_java_method_test] generate_html_report is starting...
+2017-03-23 17:08:34 [INFO] [pta_run.py(103): single_case_once_run] PID-62536 [Task: 1-call_java_method_test] generate_html_report is finished...
+2017-03-23 17:08:35 [INFO] [pta_run.py(82): perform_and_collect] PID-62536 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:08:35 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-62536 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:09:53 [INFO] [pta_run.py(82): perform_and_collect] PID-63892 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:09:53 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-63892 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:10:29 [INFO] [pta_run.py(82): perform_and_collect] PID-61736 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:10:29 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-61736 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:11:05 [INFO] [pta_run.py(85): perform_and_collect] PID-61736 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:11:05 [INFO] [pta_run.py(87): perform_and_collect] PID-61736 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:11:05 [INFO] [pta_run.py(89): perform_and_collect] PID-61736 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:11:05 [INFO] [pta_run.py(101): single_case_once_run] PID-61736 [Task: 1-call_java_method_test] generate_html_report is starting...
+2017-03-23 17:11:05 [INFO] [pta_run.py(103): single_case_once_run] PID-61736 [Task: 1-call_java_method_test] generate_html_report is finished...
+2017-03-23 17:11:06 [INFO] [pta_run.py(82): perform_and_collect] PID-61736 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:11:06 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-61736 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:11:42 [INFO] [pta_run.py(85): perform_and_collect] PID-61736 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:11:42 [INFO] [pta_run.py(87): perform_and_collect] PID-61736 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:11:42 [INFO] [pta_run.py(89): perform_and_collect] PID-61736 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:11:42 [INFO] [pta_run.py(101): single_case_once_run] PID-61736 [Task: 2-helloworld] generate_html_report is starting...
+2017-03-23 17:11:42 [INFO] [pta_run.py(103): single_case_once_run] PID-61736 [Task: 2-helloworld] generate_html_report is finished...
+2017-03-23 17:13:48 [INFO] [pta_run.py(82): perform_and_collect] PID-63764 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:13:48 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-63764 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:14:24 [INFO] [pta_run.py(85): perform_and_collect] PID-63764 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:14:24 [INFO] [pta_run.py(87): perform_and_collect] PID-63764 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:14:24 [INFO] [pta_run.py(89): perform_and_collect] PID-63764 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:14:24 [INFO] [pta_run.py(101): single_case_once_run] PID-63764 [Task: 1-call_java_method_test] generate_html_report is starting...
+2017-03-23 17:14:24 [INFO] [pta_run.py(103): single_case_once_run] PID-63764 [Task: 1-call_java_method_test] generate_html_report is finished...
+2017-03-23 17:14:24 [INFO] [pta_run.py(82): perform_and_collect] PID-63764 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:14:24 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-63764 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:15:02 [INFO] [pta_run.py(85): perform_and_collect] PID-63764 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:15:02 [INFO] [pta_run.py(87): perform_and_collect] PID-63764 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:15:02 [INFO] [pta_run.py(89): perform_and_collect] PID-63764 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:15:02 [INFO] [pta_run.py(101): single_case_once_run] PID-63764 [Task: 2-helloworld] generate_html_report is starting...
+2017-03-23 17:15:02 [INFO] [pta_run.py(103): single_case_once_run] PID-63764 [Task: 2-helloworld] generate_html_report is finished...
+2017-03-23 17:29:14 [INFO] [pta_run.py(82): perform_and_collect] PID-66068 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:29:14 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-66068 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:29:50 [INFO] [pta_run.py(85): perform_and_collect] PID-66068 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:29:50 [INFO] [pta_run.py(87): perform_and_collect] PID-66068 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:29:50 [INFO] [pta_run.py(89): perform_and_collect] PID-66068 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:29:50 [INFO] [pta_run.py(101): single_case_once_run] PID-66068 [Task: 1-call_java_method_test] generate_html_report is starting...
+2017-03-23 17:29:50 [INFO] [pta_run.py(103): single_case_once_run] PID-66068 [Task: 1-call_java_method_test] generate_html_report is finished...
+2017-03-23 17:29:50 [INFO] [pta_run.py(82): perform_and_collect] PID-66068 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:29:50 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-66068 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:30:29 [INFO] [pta_run.py(85): perform_and_collect] PID-66068 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:30:29 [INFO] [pta_run.py(87): perform_and_collect] PID-66068 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:30:29 [INFO] [pta_run.py(89): perform_and_collect] PID-66068 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:30:29 [INFO] [pta_run.py(101): single_case_once_run] PID-66068 [Task: 2-helloworld] generate_html_report is starting...
+2017-03-23 17:30:29 [INFO] [pta_run.py(103): single_case_once_run] PID-66068 [Task: 2-helloworld] generate_html_report is finished...
+2017-03-23 17:30:37 [INFO] [pta_run.py(171): test2] PID-63768 There are 2 cases. [task_list.txt]
+2017-03-23 17:30:37 [INFO] [pta_run.py(82): perform_and_collect] PID-63768 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:30:38 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-63768 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:31:13 [INFO] [pta_run.py(85): perform_and_collect] PID-63768 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:31:13 [INFO] [pta_run.py(87): perform_and_collect] PID-63768 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:31:13 [INFO] [pta_run.py(89): perform_and_collect] PID-63768 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:31:14 [WARNING] [pta_report_json.py(30): get_result_from_json_report] PID-63768 The file "report.json" was not found! [result\test\20170323171029\1-call_java_method_test
+]
+2017-03-23 17:31:14 [ERROR] [pta_run.py(147): multiple_case_single_run] PID-63768 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 142, in multiple_case_single_run
+    execute_time_list.append(result_dict_tmp.get("execute_time"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2017-03-23 17:31:14 [INFO] [pta_run.py(82): perform_and_collect] PID-63768 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:31:14 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-63768 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:31:51 [INFO] [pta_run.py(85): perform_and_collect] PID-63768 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:31:51 [INFO] [pta_run.py(87): perform_and_collect] PID-63768 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:31:51 [INFO] [pta_run.py(89): perform_and_collect] PID-63768 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:31:52 [WARNING] [pta_report_json.py(30): get_result_from_json_report] PID-63768 The file "report.json" was not found! [result\test\20170323171029\2-helloworld
+]
+2017-03-23 17:31:52 [ERROR] [pta_run.py(147): multiple_case_single_run] PID-63768 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 142, in multiple_case_single_run
+    print
+AttributeError: 'NoneType' object has no attribute 'get'
+2017-03-23 17:32:34 [INFO] [pta_run.py(172): test2] PID-61404 There are 2 cases. [task_list.txt]
+2017-03-23 17:32:34 [INFO] [pta_run.py(82): perform_and_collect] PID-61404 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:32:34 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-61404 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:33:09 [INFO] [pta_run.py(85): perform_and_collect] PID-61404 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:33:09 [INFO] [pta_run.py(87): perform_and_collect] PID-61404 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:33:09 [INFO] [pta_run.py(89): perform_and_collect] PID-61404 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:37:32 [WARNING] [pta_report_json.py(30): get_result_from_json_report] PID-61404 The file "report.json" was not found! [result\test\20170323171029\1-call_java_method_test
+]
+2017-03-23 17:40:39 [INFO] [pta_run.py(172): test2] PID-64604 There are 2 cases. [task_list.txt]
+2017-03-23 17:40:39 [INFO] [pta_run.py(82): perform_and_collect] PID-64604 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:40:39 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-64604 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:40:47 [INFO] [pta_run.py(172): test2] PID-65016 There are 2 cases. [task_list.txt]
+2017-03-23 17:40:47 [INFO] [pta_run.py(82): perform_and_collect] PID-65016 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:40:47 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-65016 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:41:22 [INFO] [pta_run.py(85): perform_and_collect] PID-65016 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:41:22 [INFO] [pta_run.py(87): perform_and_collect] PID-65016 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:41:22 [INFO] [pta_run.py(89): perform_and_collect] PID-65016 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:41:22 [ERROR] [pta_report_json.py(19): save_result_to_json_report] PID-65016 The parameter "json_dir_path" does not exist! [result\test\20170323174047\1-call_java_method_test]
+2017-03-23 17:41:53 [WARNING] [pta_report_json.py(36): get_result_from_json_report] PID-65016 The file "report.json" was not found! [result\test\20170323171029\1-call_java_method_test
+]
+2017-03-23 17:42:07 [INFO] [pta_run.py(172): test2] PID-66700 There are 2 cases. [task_list.txt]
+2017-03-23 17:42:07 [INFO] [pta_run.py(82): perform_and_collect] PID-66700 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:42:07 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-66700 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:42:42 [INFO] [pta_run.py(85): perform_and_collect] PID-66700 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:42:42 [INFO] [pta_run.py(87): perform_and_collect] PID-66700 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:42:43 [INFO] [pta_run.py(89): perform_and_collect] PID-66700 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:42:43 [ERROR] [pta_report_json.py(19): save_result_to_json_report] PID-66700 The parameter "json_dir_path" does not exist! [result\test\20170323174207\1-call_java_method_test]
+2017-03-23 17:43:12 [ERROR] [pta_report_json.py(32): get_result_from_json_report] PID-66700 The parameter "json_dir_path" does not exist! [result\test\20170323171029\1-call_java_method_test]
+2017-03-23 17:43:48 [INFO] [pta_run.py(172): test2] PID-68116 There are 2 cases. [task_list.txt]
+2017-03-23 17:43:48 [INFO] [pta_run.py(82): perform_and_collect] PID-68116 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:43:49 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68116 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:44:24 [INFO] [pta_run.py(85): perform_and_collect] PID-68116 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:44:24 [INFO] [pta_run.py(87): perform_and_collect] PID-68116 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:44:24 [INFO] [pta_run.py(89): perform_and_collect] PID-68116 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:44:24 [ERROR] [pta_report_json.py(19): save_result_to_json_report] PID-68116 The parameter "json_dir_path" does not exist! [result\test\20170323174348\1-call_java_method_test]
+2017-03-23 17:44:41 [ERROR] [pta_report_json.py(32): get_result_from_json_report] PID-68116 The parameter "json_dir_path" does not exist! [result\test\20170323171029\1-call_java_method_test]
+2017-03-23 17:45:30 [INFO] [pta_run.py(172): test2] PID-68580 There are 2 cases. [task_list.txt]
+2017-03-23 17:45:30 [INFO] [pta_run.py(82): perform_and_collect] PID-68580 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:45:30 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68580 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:46:06 [INFO] [pta_run.py(85): perform_and_collect] PID-68580 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:46:06 [INFO] [pta_run.py(87): perform_and_collect] PID-68580 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:46:06 [INFO] [pta_run.py(89): perform_and_collect] PID-68580 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:46:06 [ERROR] [pta_report_json.py(19): save_result_to_json_report] PID-68580 The parameter "json_dir_path" does not exist! [result\test\20170323174530\1-call_java_method_test]
+2017-03-23 17:48:46 [INFO] [pta_run.py(172): test2] PID-65204 There are 2 cases. [task_list.txt]
+2017-03-23 17:48:46 [INFO] [pta_run.py(82): perform_and_collect] PID-65204 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:48:46 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-65204 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:49:21 [INFO] [pta_run.py(85): perform_and_collect] PID-65204 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:49:21 [INFO] [pta_run.py(87): perform_and_collect] PID-65204 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:49:21 [INFO] [pta_run.py(89): perform_and_collect] PID-65204 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:49:53 [WARNING] [pta_report_json.py(36): get_result_from_json_report] PID-65204 The file "report.json" was not found! [result\test\20170323174047\1-call_java_method_test]
+2017-03-23 17:50:52 [ERROR] [pta_run.py(148): multiple_case_single_run] PID-65204 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 143, in multiple_case_single_run
+    execute_time_list.append(result_dict_tmp.get("execute_time"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2017-03-23 17:50:52 [INFO] [pta_run.py(82): perform_and_collect] PID-65204 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:50:52 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-65204 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:51:30 [INFO] [pta_run.py(85): perform_and_collect] PID-65204 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:51:30 [INFO] [pta_run.py(87): perform_and_collect] PID-65204 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:51:30 [INFO] [pta_run.py(89): perform_and_collect] PID-65204 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:52:01 [INFO] [pta_run.py(172): test2] PID-68392 There are 2 cases. [task_list.txt]
+2017-03-23 17:52:01 [INFO] [pta_run.py(82): perform_and_collect] PID-68392 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:52:01 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68392 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:52:36 [INFO] [pta_run.py(85): perform_and_collect] PID-68392 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:52:36 [INFO] [pta_run.py(87): perform_and_collect] PID-68392 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:52:36 [INFO] [pta_run.py(89): perform_and_collect] PID-68392 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:52:37 [INFO] [pta_run.py(82): perform_and_collect] PID-68392 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:52:37 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68392 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:53:16 [INFO] [pta_run.py(85): perform_and_collect] PID-68392 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:53:16 [INFO] [pta_run.py(87): perform_and_collect] PID-68392 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:53:16 [INFO] [pta_run.py(89): perform_and_collect] PID-68392 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:57:17 [INFO] [pta_run.py(172): test2] PID-68812 There are 2 cases. [task_list.txt]
+2017-03-23 17:57:17 [INFO] [pta_run.py(82): perform_and_collect] PID-68812 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 17:57:17 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68812 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:57:53 [INFO] [pta_run.py(85): perform_and_collect] PID-68812 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 17:57:53 [INFO] [pta_run.py(87): perform_and_collect] PID-68812 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 17:57:53 [INFO] [pta_run.py(89): perform_and_collect] PID-68812 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 17:57:54 [ERROR] [pta_run.py(148): multiple_case_single_run] PID-68812 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 145, in multiple_case_single_run
+    draw_comparison_chart(execute_time_list, tps_list, work_directory, chart_file_name=testcase_name + "-tps.png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 120, in draw_comparison_chart
+    ax.plot(x_list, y_list, 'r-', label=tps_label)
+  File "C:\Python27\lib\site-packages\matplotlib\__init__.py", line 1819, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_axes.py", line 1383, in plot
+    self.add_line(line)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 1703, in add_line
+    self._update_line_limits(line)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 1725, in _update_line_limits
+    path = line.get_path()
+  File "C:\Python27\lib\site-packages\matplotlib\lines.py", line 938, in get_path
+    self.recache()
+  File "C:\Python27\lib\site-packages\matplotlib\lines.py", line 625, in recache
+    x = np.asarray(xconv, np.float_)
+  File "C:\Python27\lib\site-packages\numpy\core\numeric.py", line 482, in asarray
+    return array(a, dtype, copy=False, order=order)
+ValueError: invalid literal for float(): 2017-03-23 17:10:35
+2017-03-23 17:57:54 [INFO] [pta_run.py(82): perform_and_collect] PID-68812 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 17:57:54 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-68812 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 17:58:29 [INFO] [pta_run.py(85): perform_and_collect] PID-68812 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 17:58:29 [INFO] [pta_run.py(87): perform_and_collect] PID-68812 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 17:58:29 [INFO] [pta_run.py(89): perform_and_collect] PID-68812 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 17:58:30 [ERROR] [pta_run.py(148): multiple_case_single_run] PID-68812 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 145, in multiple_case_single_run
+    draw_comparison_chart(execute_time_list, tps_list, work_directory, chart_file_name=testcase_name + "-tps.png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 120, in draw_comparison_chart
+    ax.plot(x_list, y_list, 'r-', label=tps_label)
+  File "C:\Python27\lib\site-packages\matplotlib\__init__.py", line 1819, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_axes.py", line 1383, in plot
+    self.add_line(line)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 1703, in add_line
+    self._update_line_limits(line)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 1725, in _update_line_limits
+    path = line.get_path()
+  File "C:\Python27\lib\site-packages\matplotlib\lines.py", line 938, in get_path
+    self.recache()
+  File "C:\Python27\lib\site-packages\matplotlib\lines.py", line 625, in recache
+    x = np.asarray(xconv, np.float_)
+  File "C:\Python27\lib\site-packages\numpy\core\numeric.py", line 482, in asarray
+    return array(a, dtype, copy=False, order=order)
+ValueError: invalid literal for float(): 2017-03-23 17:11:10
+2017-03-23 18:47:18 [INFO] [pta_run.py(172): test2] PID-75716 There are 2 cases. [task_list.txt]
+2017-03-23 18:47:18 [INFO] [pta_run.py(82): perform_and_collect] PID-75716 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 18:47:18 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75716 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:47:53 [INFO] [pta_run.py(85): perform_and_collect] PID-75716 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 18:47:53 [INFO] [pta_run.py(87): perform_and_collect] PID-75716 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 18:47:53 [INFO] [pta_run.py(89): perform_and_collect] PID-75716 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 18:49:59 [INFO] [pta_run.py(172): test2] PID-75316 There are 2 cases. [task_list.txt]
+2017-03-23 18:49:59 [INFO] [pta_run.py(82): perform_and_collect] PID-75316 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 18:49:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75316 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:50:34 [INFO] [pta_run.py(85): perform_and_collect] PID-75316 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 18:50:34 [INFO] [pta_run.py(87): perform_and_collect] PID-75316 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 18:50:34 [INFO] [pta_run.py(89): perform_and_collect] PID-75316 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 18:50:59 [INFO] [pta_run.py(82): perform_and_collect] PID-75316 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 18:50:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75316 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:51:35 [INFO] [pta_run.py(85): perform_and_collect] PID-75316 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 18:51:35 [INFO] [pta_run.py(87): perform_and_collect] PID-75316 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 18:51:35 [INFO] [pta_run.py(89): perform_and_collect] PID-75316 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 18:52:15 [INFO] [pta_run.py(175): test2] PID-75980 There are 2 cases. [task_list.txt]
+2017-03-23 18:52:15 [INFO] [pta_run.py(82): perform_and_collect] PID-75980 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 18:52:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:52:51 [INFO] [pta_run.py(85): perform_and_collect] PID-75980 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 18:52:51 [INFO] [pta_run.py(87): perform_and_collect] PID-75980 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 18:52:51 [INFO] [pta_run.py(89): perform_and_collect] PID-75980 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 18:52:52 [INFO] [pta_run.py(82): perform_and_collect] PID-75980 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 18:52:52 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:53:28 [INFO] [pta_run.py(85): perform_and_collect] PID-75980 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 18:53:28 [INFO] [pta_run.py(87): perform_and_collect] PID-75980 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 18:53:28 [INFO] [pta_run.py(89): perform_and_collect] PID-75980 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 18:54:51 [INFO] [pta_run.py(175): test2] PID-72820 There are 2 cases. [task_list.txt]
+2017-03-23 18:54:51 [INFO] [pta_run.py(82): perform_and_collect] PID-72820 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 18:54:51 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-72820 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:55:27 [INFO] [pta_run.py(85): perform_and_collect] PID-72820 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 18:55:27 [INFO] [pta_run.py(87): perform_and_collect] PID-72820 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 18:55:27 [INFO] [pta_run.py(89): perform_and_collect] PID-72820 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 18:55:28 [INFO] [pta_run.py(82): perform_and_collect] PID-72820 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 18:55:28 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-72820 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:56:06 [INFO] [pta_run.py(85): perform_and_collect] PID-72820 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 18:56:06 [INFO] [pta_run.py(87): perform_and_collect] PID-72820 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 18:56:06 [INFO] [pta_run.py(89): perform_and_collect] PID-72820 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 18:56:12 [INFO] [pta_run.py(175): test2] PID-74996 There are 2 cases. [task_list.txt]
+2017-03-23 18:56:12 [INFO] [pta_run.py(82): perform_and_collect] PID-74996 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 18:56:12 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-74996 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:56:48 [INFO] [pta_run.py(85): perform_and_collect] PID-74996 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 18:56:48 [INFO] [pta_run.py(87): perform_and_collect] PID-74996 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 18:56:48 [INFO] [pta_run.py(89): perform_and_collect] PID-74996 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 18:56:49 [INFO] [pta_run.py(82): perform_and_collect] PID-74996 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 18:56:49 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-74996 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 18:57:25 [INFO] [pta_run.py(85): perform_and_collect] PID-74996 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 18:57:25 [INFO] [pta_run.py(87): perform_and_collect] PID-74996 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 18:57:25 [INFO] [pta_run.py(89): perform_and_collect] PID-74996 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:00:11 [INFO] [pta_run.py(179): test2] PID-71768 There are 2 cases. [task_list.txt]
+2017-03-23 19:00:11 [INFO] [pta_run.py(82): perform_and_collect] PID-71768 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:00:11 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-71768 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:00:47 [INFO] [pta_run.py(85): perform_and_collect] PID-71768 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:00:47 [INFO] [pta_run.py(87): perform_and_collect] PID-71768 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:00:47 [INFO] [pta_run.py(89): perform_and_collect] PID-71768 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:00:48 [INFO] [pta_run.py(82): perform_and_collect] PID-71768 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:00:48 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-71768 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:01:24 [INFO] [pta_run.py(85): perform_and_collect] PID-71768 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:01:24 [INFO] [pta_run.py(87): perform_and_collect] PID-71768 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:01:24 [INFO] [pta_run.py(89): perform_and_collect] PID-71768 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:04:48 [INFO] [pta_run.py(178): test2] PID-77156 There are 2 cases. [task_list.txt]
+2017-03-23 19:04:48 [INFO] [pta_run.py(84): perform_and_collect] PID-77156 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:04:48 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77156 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:05:24 [INFO] [pta_run.py(87): perform_and_collect] PID-77156 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:05:24 [INFO] [pta_run.py(89): perform_and_collect] PID-77156 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:05:24 [INFO] [pta_run.py(91): perform_and_collect] PID-77156 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:05:24 [INFO] [pta_run.py(84): perform_and_collect] PID-77156 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:05:24 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77156 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:06:02 [INFO] [pta_run.py(87): perform_and_collect] PID-77156 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:06:02 [INFO] [pta_run.py(89): perform_and_collect] PID-77156 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:06:02 [INFO] [pta_run.py(91): perform_and_collect] PID-77156 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:06:50 [INFO] [pta_run.py(178): test2] PID-77452 There are 2 cases. [task_list.txt]
+2017-03-23 19:06:50 [INFO] [pta_run.py(84): perform_and_collect] PID-77452 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:06:50 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77452 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:07:26 [INFO] [pta_run.py(87): perform_and_collect] PID-77452 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:07:26 [INFO] [pta_run.py(89): perform_and_collect] PID-77452 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:07:26 [INFO] [pta_run.py(91): perform_and_collect] PID-77452 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:07:26 [INFO] [pta_run.py(84): perform_and_collect] PID-77452 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:07:26 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77452 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 30(s)
+grinder_runs = 0
+2017-03-23 19:08:03 [INFO] [pta_run.py(87): perform_and_collect] PID-77452 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:08:03 [INFO] [pta_run.py(89): perform_and_collect] PID-77452 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:08:03 [INFO] [pta_run.py(91): perform_and_collect] PID-77452 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:17:15 [INFO] [pta_run.py(178): test2] PID-75912 There are 2 cases. [task_list.txt]
+2017-03-23 19:17:15 [INFO] [pta_run.py(84): perform_and_collect] PID-75912 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:17:16 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75912 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:17:31 [INFO] [pta_run.py(87): perform_and_collect] PID-75912 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:17:31 [INFO] [pta_run.py(89): perform_and_collect] PID-75912 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:17:31 [INFO] [pta_run.py(91): perform_and_collect] PID-75912 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:17:32 [INFO] [pta_run.py(84): perform_and_collect] PID-75912 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:17:32 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-75912 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:17:47 [INFO] [pta_run.py(87): perform_and_collect] PID-75912 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:17:47 [INFO] [pta_run.py(89): perform_and_collect] PID-75912 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:17:47 [INFO] [pta_run.py(91): perform_and_collect] PID-75912 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:23:02 [INFO] [pta_run.py(178): test2] PID-77656 There are 2 cases. [task_list.txt]
+2017-03-23 19:23:02 [INFO] [pta_run.py(84): perform_and_collect] PID-77656 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:23:02 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77656 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:23:17 [INFO] [pta_run.py(87): perform_and_collect] PID-77656 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:23:17 [INFO] [pta_run.py(89): perform_and_collect] PID-77656 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:23:17 [INFO] [pta_run.py(91): perform_and_collect] PID-77656 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:23:18 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-77656 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 132, in multiple_case_single_run
+    get_tps_chart(task_dict, father_work_directory)
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 158, in get_tps_chart
+    draw_comparison_chart(execute_time_list, tps_list, work_directory, chart_file_name=testcase_name + "-tps.png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 128, in draw_comparison_chart
+    ax.ylim(0, 10 ** len(str(max(y_list)).split('.')[0]))
+AttributeError: 'AxesSubplot' object has no attribute 'ylim'
+2017-03-23 19:23:18 [INFO] [pta_run.py(84): perform_and_collect] PID-77656 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:23:18 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-77656 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:23:35 [INFO] [pta_run.py(87): perform_and_collect] PID-77656 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:23:35 [INFO] [pta_run.py(89): perform_and_collect] PID-77656 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:23:35 [INFO] [pta_run.py(91): perform_and_collect] PID-77656 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:23:36 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-77656 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 132, in multiple_case_single_run
+    get_tps_chart(task_dict, father_work_directory)
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 158, in get_tps_chart
+    draw_comparison_chart(execute_time_list, tps_list, work_directory, chart_file_name=testcase_name + "-tps.png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 128, in draw_comparison_chart
+    ax.ylim(0, 10 ** len(str(max(y_list)).split('.')[0]))
+AttributeError: 'AxesSubplot' object has no attribute 'ylim'
+2017-03-23 19:25:34 [INFO] [pta_run.py(178): test2] PID-79264 There are 2 cases. [task_list.txt]
+2017-03-23 19:25:34 [INFO] [pta_run.py(84): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:25:34 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79264 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:25:49 [INFO] [pta_run.py(87): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:25:49 [INFO] [pta_run.py(89): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:25:49 [INFO] [pta_run.py(91): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:25:50 [INFO] [pta_run.py(84): perform_and_collect] PID-79264 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:25:50 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79264 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:26:07 [INFO] [pta_run.py(87): perform_and_collect] PID-79264 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:26:07 [INFO] [pta_run.py(89): perform_and_collect] PID-79264 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:26:08 [INFO] [pta_run.py(91): perform_and_collect] PID-79264 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:26:56 [INFO] [pta_run.py(178): test2] PID-79444 There are 2 cases. [task_list.txt]
+2017-03-23 19:26:56 [INFO] [pta_run.py(84): perform_and_collect] PID-79444 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:26:56 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79444 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:27:11 [INFO] [pta_run.py(87): perform_and_collect] PID-79444 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:27:11 [INFO] [pta_run.py(89): perform_and_collect] PID-79444 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:27:11 [INFO] [pta_run.py(91): perform_and_collect] PID-79444 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:27:12 [INFO] [pta_run.py(84): perform_and_collect] PID-79444 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:27:12 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79444 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:27:28 [INFO] [pta_run.py(87): perform_and_collect] PID-79444 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:27:28 [INFO] [pta_run.py(89): perform_and_collect] PID-79444 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:27:28 [INFO] [pta_run.py(91): perform_and_collect] PID-79444 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:29:15 [INFO] [pta_run.py(178): test2] PID-79364 There are 2 cases. [task_list.txt]
+2017-03-23 19:29:15 [INFO] [pta_run.py(84): perform_and_collect] PID-79364 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:29:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79364 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:29:30 [INFO] [pta_run.py(87): perform_and_collect] PID-79364 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:29:30 [INFO] [pta_run.py(89): perform_and_collect] PID-79364 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:29:30 [INFO] [pta_run.py(91): perform_and_collect] PID-79364 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:29:31 [INFO] [pta_run.py(84): perform_and_collect] PID-79364 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:29:31 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79364 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:29:48 [INFO] [pta_run.py(87): perform_and_collect] PID-79364 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:29:48 [INFO] [pta_run.py(89): perform_and_collect] PID-79364 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:29:48 [INFO] [pta_run.py(91): perform_and_collect] PID-79364 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:30:14 [INFO] [pta_run.py(178): test2] PID-79264 There are 2 cases. [task_list.txt]
+2017-03-23 19:30:14 [INFO] [pta_run.py(84): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:30:14 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79264 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:30:29 [INFO] [pta_run.py(87): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:30:29 [INFO] [pta_run.py(89): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:30:29 [INFO] [pta_run.py(91): perform_and_collect] PID-79264 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:30:30 [INFO] [pta_run.py(84): perform_and_collect] PID-79264 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:30:30 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79264 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:30:46 [INFO] [pta_run.py(87): perform_and_collect] PID-79264 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:30:46 [INFO] [pta_run.py(89): perform_and_collect] PID-79264 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:30:46 [INFO] [pta_run.py(91): perform_and_collect] PID-79264 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:34:17 [INFO] [pta_run.py(178): test2] PID-80368 There are 2 cases. [task_list.txt]
+2017-03-23 19:34:17 [INFO] [pta_run.py(84): perform_and_collect] PID-80368 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:34:17 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-80368 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:34:55 [INFO] [pta_run.py(178): test2] PID-80644 There are 2 cases. [task_list.txt]
+2017-03-23 19:34:55 [INFO] [pta_run.py(84): perform_and_collect] PID-80644 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:34:55 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-80644 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:35:11 [INFO] [pta_run.py(87): perform_and_collect] PID-80644 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:35:11 [INFO] [pta_run.py(89): perform_and_collect] PID-80644 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:35:11 [INFO] [pta_run.py(91): perform_and_collect] PID-80644 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:35:12 [INFO] [pta_run.py(84): perform_and_collect] PID-80644 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:35:12 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-80644 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:35:30 [INFO] [pta_run.py(87): perform_and_collect] PID-80644 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:35:30 [INFO] [pta_run.py(89): perform_and_collect] PID-80644 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:35:30 [INFO] [pta_run.py(91): perform_and_collect] PID-80644 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:40:56 [INFO] [pta_run.py(178): test2] PID-80916 There are 2 cases. [task_list.txt]
+2017-03-23 19:40:56 [INFO] [pta_run.py(84): perform_and_collect] PID-80916 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:40:56 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-80916 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:41:11 [INFO] [pta_run.py(87): perform_and_collect] PID-80916 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:41:11 [INFO] [pta_run.py(89): perform_and_collect] PID-80916 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:41:11 [INFO] [pta_run.py(91): perform_and_collect] PID-80916 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:41:12 [INFO] [pta_run.py(84): perform_and_collect] PID-80916 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:41:12 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-80916 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:43:43 [INFO] [pta_run.py(178): test2] PID-81584 There are 2 cases. [task_list.txt]
+2017-03-23 19:43:43 [INFO] [pta_run.py(84): perform_and_collect] PID-81584 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:43:43 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-81584 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:43:58 [INFO] [pta_run.py(87): perform_and_collect] PID-81584 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:43:58 [INFO] [pta_run.py(89): perform_and_collect] PID-81584 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:43:58 [INFO] [pta_run.py(91): perform_and_collect] PID-81584 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:43:59 [INFO] [pta_run.py(84): perform_and_collect] PID-81584 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:43:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-81584 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:44:17 [INFO] [pta_run.py(87): perform_and_collect] PID-81584 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:44:17 [INFO] [pta_run.py(89): perform_and_collect] PID-81584 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:44:17 [INFO] [pta_run.py(91): perform_and_collect] PID-81584 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:45:00 [INFO] [pta_run.py(178): test2] PID-79148 There are 2 cases. [task_list.txt]
+2017-03-23 19:45:00 [INFO] [pta_run.py(84): perform_and_collect] PID-79148 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:45:00 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79148 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:45:15 [INFO] [pta_run.py(87): perform_and_collect] PID-79148 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:45:15 [INFO] [pta_run.py(89): perform_and_collect] PID-79148 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:45:15 [INFO] [pta_run.py(91): perform_and_collect] PID-79148 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:45:16 [INFO] [pta_run.py(84): perform_and_collect] PID-79148 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:45:16 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-79148 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:45:34 [INFO] [pta_run.py(87): perform_and_collect] PID-79148 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:45:34 [INFO] [pta_run.py(89): perform_and_collect] PID-79148 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:45:34 [INFO] [pta_run.py(91): perform_and_collect] PID-79148 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-23 19:46:01 [INFO] [pta_run.py(178): test2] PID-81360 There are 2 cases. [task_list.txt]
+2017-03-23 19:46:01 [INFO] [pta_run.py(84): perform_and_collect] PID-81360 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-23 19:46:01 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-81360 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:46:16 [INFO] [pta_run.py(87): perform_and_collect] PID-81360 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-23 19:46:16 [INFO] [pta_run.py(89): perform_and_collect] PID-81360 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-23 19:46:16 [INFO] [pta_run.py(91): perform_and_collect] PID-81360 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-23 19:46:17 [INFO] [pta_run.py(84): perform_and_collect] PID-81360 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-23 19:46:17 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-81360 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-23 19:46:33 [INFO] [pta_run.py(87): perform_and_collect] PID-81360 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-23 19:46:33 [INFO] [pta_run.py(89): perform_and_collect] PID-81360 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-23 19:46:33 [INFO] [pta_run.py(91): perform_and_collect] PID-81360 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 09:40:24 [INFO] [pta_run.py(178): test2] PID-8320 There are 2 cases. [task_list.txt]
+2017-03-24 09:40:24 [INFO] [pta_run.py(84): perform_and_collect] PID-8320 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 09:40:24 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8320 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 09:40:40 [INFO] [pta_run.py(87): perform_and_collect] PID-8320 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 09:40:40 [INFO] [pta_run.py(89): perform_and_collect] PID-8320 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 09:40:40 [INFO] [pta_run.py(91): perform_and_collect] PID-8320 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 09:40:41 [INFO] [pta_run.py(84): perform_and_collect] PID-8320 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 09:40:41 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8320 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 09:40:59 [INFO] [pta_run.py(87): perform_and_collect] PID-8320 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 09:40:59 [INFO] [pta_run.py(89): perform_and_collect] PID-8320 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 09:40:59 [INFO] [pta_run.py(91): perform_and_collect] PID-8320 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 09:41:38 [INFO] [pta_run.py(178): test2] PID-8296 There are 2 cases. [task_list.txt]
+2017-03-24 09:41:38 [INFO] [pta_run.py(84): perform_and_collect] PID-8296 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 09:41:38 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8296 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 09:41:54 [INFO] [pta_run.py(87): perform_and_collect] PID-8296 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 09:41:54 [INFO] [pta_run.py(89): perform_and_collect] PID-8296 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 09:41:54 [INFO] [pta_run.py(91): perform_and_collect] PID-8296 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 09:41:54 [INFO] [pta_run.py(84): perform_and_collect] PID-8296 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 09:41:54 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8296 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 09:42:13 [INFO] [pta_run.py(87): perform_and_collect] PID-8296 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 09:42:13 [INFO] [pta_run.py(89): perform_and_collect] PID-8296 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 09:42:13 [INFO] [pta_run.py(91): perform_and_collect] PID-8296 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:04:08 [INFO] [pta_run.py(178): test2] PID-9704 There are 2 cases. [task_list.txt]
+2017-03-24 10:04:08 [INFO] [pta_run.py(84): perform_and_collect] PID-9704 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:04:08 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-9704 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:04:24 [INFO] [pta_run.py(87): perform_and_collect] PID-9704 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:04:24 [INFO] [pta_run.py(89): perform_and_collect] PID-9704 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:04:24 [INFO] [pta_run.py(91): perform_and_collect] PID-9704 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:04:25 [INFO] [pta_run.py(84): perform_and_collect] PID-9704 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:04:25 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-9704 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:04:44 [INFO] [pta_run.py(87): perform_and_collect] PID-9704 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:04:44 [INFO] [pta_run.py(89): perform_and_collect] PID-9704 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:04:44 [INFO] [pta_run.py(91): perform_and_collect] PID-9704 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:05:39 [INFO] [pta_run.py(178): test2] PID-8116 There are 2 cases. [task_list.txt]
+2017-03-24 10:05:39 [INFO] [pta_run.py(84): perform_and_collect] PID-8116 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:05:39 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8116 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:05:54 [INFO] [pta_run.py(87): perform_and_collect] PID-8116 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:05:54 [INFO] [pta_run.py(89): perform_and_collect] PID-8116 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:05:54 [INFO] [pta_run.py(91): perform_and_collect] PID-8116 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:05:55 [INFO] [pta_run.py(84): perform_and_collect] PID-8116 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:05:55 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-8116 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:06:12 [INFO] [pta_run.py(87): perform_and_collect] PID-8116 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:06:12 [INFO] [pta_run.py(89): perform_and_collect] PID-8116 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:06:12 [INFO] [pta_run.py(91): perform_and_collect] PID-8116 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:06:27 [INFO] [pta_run.py(178): test2] PID-12208 There are 2 cases. [task_list.txt]
+2017-03-24 10:06:27 [INFO] [pta_run.py(84): perform_and_collect] PID-12208 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:06:27 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-12208 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:06:42 [INFO] [pta_run.py(87): perform_and_collect] PID-12208 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:06:42 [INFO] [pta_run.py(89): perform_and_collect] PID-12208 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:06:42 [INFO] [pta_run.py(91): perform_and_collect] PID-12208 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:06:43 [ERROR] [pta_report_json.py(32): get_result_from_json_report] PID-12208 The parameter "json_dir_path" does not exist! [result\test\20170323192534\1-call_java_method_test]
+2017-03-24 10:06:43 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-12208 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 132, in multiple_case_single_run
+    get_tps_chart(task_dict, father_work_directory)
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 157, in get_tps_chart
+    tps_list.append(result_dict_tmp.get("tps"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2017-03-24 10:06:43 [INFO] [pta_run.py(84): perform_and_collect] PID-12208 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:06:43 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-12208 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:06:59 [INFO] [pta_run.py(87): perform_and_collect] PID-12208 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:06:59 [INFO] [pta_run.py(89): perform_and_collect] PID-12208 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:06:59 [INFO] [pta_run.py(91): perform_and_collect] PID-12208 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:07:00 [ERROR] [pta_report_json.py(32): get_result_from_json_report] PID-12208 The parameter "json_dir_path" does not exist! [result\test\20170323192534\2-helloworld]
+2017-03-24 10:07:00 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-12208 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 132, in multiple_case_single_run
+    get_tps_chart(task_dict, father_work_directory)
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 157, in get_tps_chart
+    tps_list.append(result_dict_tmp.get("tps"))
+AttributeError: 'NoneType' object has no attribute 'get'
+2017-03-24 10:07:38 [INFO] [pta_run.py(178): test2] PID-12032 There are 2 cases. [task_list.txt]
+2017-03-24 10:07:38 [INFO] [pta_run.py(84): perform_and_collect] PID-12032 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:07:39 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-12032 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:07:53 [INFO] [pta_run.py(87): perform_and_collect] PID-12032 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:07:53 [INFO] [pta_run.py(89): perform_and_collect] PID-12032 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:07:53 [INFO] [pta_run.py(91): perform_and_collect] PID-12032 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:07:54 [INFO] [pta_run.py(84): perform_and_collect] PID-12032 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:07:54 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-12032 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:08:11 [INFO] [pta_run.py(87): perform_and_collect] PID-12032 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:08:11 [INFO] [pta_run.py(89): perform_and_collect] PID-12032 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:08:11 [INFO] [pta_run.py(91): perform_and_collect] PID-12032 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:40:41 [INFO] [pta_run.py(178): test2] PID-16160 There are 2 cases. [task_list.txt]
+2017-03-24 10:40:41 [INFO] [pta_run.py(84): perform_and_collect] PID-16160 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:40:41 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16160 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:40:57 [INFO] [pta_run.py(87): perform_and_collect] PID-16160 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:40:57 [INFO] [pta_run.py(89): perform_and_collect] PID-16160 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:40:57 [INFO] [pta_run.py(91): perform_and_collect] PID-16160 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:40:58 [INFO] [pta_run.py(84): perform_and_collect] PID-16160 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:40:58 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16160 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:41:16 [INFO] [pta_run.py(87): perform_and_collect] PID-16160 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:41:16 [INFO] [pta_run.py(89): perform_and_collect] PID-16160 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:41:16 [INFO] [pta_run.py(91): perform_and_collect] PID-16160 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:43:41 [INFO] [pta_run.py(178): test2] PID-15944 There are 2 cases. [task_list.txt]
+2017-03-24 10:43:41 [INFO] [pta_run.py(84): perform_and_collect] PID-15944 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:43:41 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15944 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:43:57 [INFO] [pta_run.py(87): perform_and_collect] PID-15944 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:43:57 [INFO] [pta_run.py(89): perform_and_collect] PID-15944 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:43:57 [INFO] [pta_run.py(91): perform_and_collect] PID-15944 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:43:57 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-15944 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 108, in draw_runtime_chart
+    ax1.ylim(y_test_min, y_test_max)
+AttributeError: 'AxesSubplot' object has no attribute 'ylim'
+2017-03-24 10:43:57 [INFO] [pta_run.py(84): perform_and_collect] PID-15944 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:43:57 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15944 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:44:15 [INFO] [pta_run.py(87): perform_and_collect] PID-15944 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:44:15 [INFO] [pta_run.py(89): perform_and_collect] PID-15944 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:44:15 [INFO] [pta_run.py(91): perform_and_collect] PID-15944 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 10:44:15 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-15944 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 108, in draw_runtime_chart
+    ax1.ylim(y_test_min, y_test_max)
+AttributeError: 'AxesSubplot' object has no attribute 'ylim'
+2017-03-24 10:54:58 [INFO] [pta_run.py(178): test2] PID-17132 There are 2 cases. [task_list.txt]
+2017-03-24 10:54:58 [INFO] [pta_run.py(84): perform_and_collect] PID-17132 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 10:54:58 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-17132 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:55:13 [INFO] [pta_run.py(87): perform_and_collect] PID-17132 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 10:55:13 [INFO] [pta_run.py(89): perform_and_collect] PID-17132 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 10:55:13 [INFO] [pta_run.py(91): perform_and_collect] PID-17132 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 10:55:15 [INFO] [pta_run.py(84): perform_and_collect] PID-17132 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 10:55:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-17132 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 10:55:30 [INFO] [pta_run.py(87): perform_and_collect] PID-17132 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 10:55:30 [INFO] [pta_run.py(89): perform_and_collect] PID-17132 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 10:55:30 [INFO] [pta_run.py(91): perform_and_collect] PID-17132 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:01:48 [INFO] [pta_run.py(178): test2] PID-16508 There are 2 cases. [task_list.txt]
+2017-03-24 11:01:48 [INFO] [pta_run.py(84): perform_and_collect] PID-16508 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:01:48 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16508 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:02:04 [INFO] [pta_run.py(87): perform_and_collect] PID-16508 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:02:04 [INFO] [pta_run.py(89): perform_and_collect] PID-16508 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:02:04 [INFO] [pta_run.py(91): perform_and_collect] PID-16508 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:02:04 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-16508 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 94, in draw_runtime_chart
+    y_test_zero_count = len(str(max(max(pass_sum_list), max(error_sum_no_zero_list))).split(".")[0])
+ValueError: max() arg is an empty sequence
+2017-03-24 11:02:04 [INFO] [pta_run.py(84): perform_and_collect] PID-16508 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:02:04 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16508 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:02:22 [INFO] [pta_run.py(87): perform_and_collect] PID-16508 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:02:22 [INFO] [pta_run.py(89): perform_and_collect] PID-16508 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:02:22 [INFO] [pta_run.py(91): perform_and_collect] PID-16508 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:02:23 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-16508 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 94, in draw_runtime_chart
+    y_test_zero_count = len(str(max(max(pass_sum_list), max(error_sum_no_zero_list))).split(".")[0])
+ValueError: max() arg is an empty sequence
+2017-03-24 11:04:48 [INFO] [pta_run.py(178): test2] PID-15980 There are 2 cases. [task_list.txt]
+2017-03-24 11:04:48 [INFO] [pta_run.py(84): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:04:48 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:05:03 [INFO] [pta_run.py(87): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:05:03 [INFO] [pta_run.py(89): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:05:04 [INFO] [pta_run.py(91): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:05:04 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-15980 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 100, in draw_runtime_chart
+    y_test_min = (int(0.8 * min(min(pass_error_tmp_list))) / (10 ** (y_test_zero_count - 1)) * (10 ** (y_test_zero_count - 1)))
+TypeError: 'int' object is not iterable
+2017-03-24 11:05:04 [INFO] [pta_run.py(84): perform_and_collect] PID-15980 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:05:04 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:05:22 [INFO] [pta_run.py(87): perform_and_collect] PID-15980 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:05:22 [INFO] [pta_run.py(89): perform_and_collect] PID-15980 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:05:22 [INFO] [pta_run.py(91): perform_and_collect] PID-15980 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:05:22 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-15980 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 100, in draw_runtime_chart
+    y_test_min = (int(0.8 * min(min(pass_error_tmp_list))) / (10 ** (y_test_zero_count - 1)) * (10 ** (y_test_zero_count - 1)))
+TypeError: 'int' object is not iterable
+2017-03-24 11:06:24 [INFO] [pta_run.py(178): test2] PID-16808 There are 2 cases. [task_list.txt]
+2017-03-24 11:06:24 [INFO] [pta_run.py(84): perform_and_collect] PID-16808 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:06:24 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16808 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:06:39 [INFO] [pta_run.py(87): perform_and_collect] PID-16808 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:06:39 [INFO] [pta_run.py(89): perform_and_collect] PID-16808 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:06:39 [INFO] [pta_run.py(91): perform_and_collect] PID-16808 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:06:41 [INFO] [pta_run.py(84): perform_and_collect] PID-16808 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:06:41 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16808 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:06:58 [INFO] [pta_run.py(87): perform_and_collect] PID-16808 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:06:58 [INFO] [pta_run.py(89): perform_and_collect] PID-16808 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:06:58 [INFO] [pta_run.py(91): perform_and_collect] PID-16808 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:09:15 [INFO] [pta_run.py(178): test2] PID-18672 There are 2 cases. [task_list.txt]
+2017-03-24 11:09:15 [INFO] [pta_run.py(84): perform_and_collect] PID-18672 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:09:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18672 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:09:30 [INFO] [pta_run.py(87): perform_and_collect] PID-18672 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:09:30 [INFO] [pta_run.py(89): perform_and_collect] PID-18672 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:09:30 [INFO] [pta_run.py(91): perform_and_collect] PID-18672 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:09:32 [INFO] [pta_run.py(84): perform_and_collect] PID-18672 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:09:32 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18672 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:09:50 [INFO] [pta_run.py(87): perform_and_collect] PID-18672 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:09:50 [INFO] [pta_run.py(89): perform_and_collect] PID-18672 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:09:50 [INFO] [pta_run.py(91): perform_and_collect] PID-18672 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:11:54 [INFO] [pta_run.py(178): test2] PID-19160 There are 2 cases. [task_list.txt]
+2017-03-24 11:11:54 [INFO] [pta_run.py(84): perform_and_collect] PID-19160 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:11:54 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-19160 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:12:09 [INFO] [pta_run.py(87): perform_and_collect] PID-19160 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:12:09 [INFO] [pta_run.py(89): perform_and_collect] PID-19160 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:12:09 [INFO] [pta_run.py(91): perform_and_collect] PID-19160 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:12:10 [INFO] [pta_run.py(84): perform_and_collect] PID-19160 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:12:10 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-19160 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:12:25 [INFO] [pta_run.py(87): perform_and_collect] PID-19160 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:12:25 [INFO] [pta_run.py(89): perform_and_collect] PID-19160 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:12:25 [INFO] [pta_run.py(91): perform_and_collect] PID-19160 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:16:19 [INFO] [pta_run.py(178): test2] PID-19492 There are 2 cases. [task_list.txt]
+2017-03-24 11:16:19 [INFO] [pta_run.py(84): perform_and_collect] PID-19492 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:16:19 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-19492 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:16:33 [INFO] [pta_run.py(87): perform_and_collect] PID-19492 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:16:33 [INFO] [pta_run.py(89): perform_and_collect] PID-19492 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:16:33 [INFO] [pta_run.py(91): perform_and_collect] PID-19492 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:16:35 [INFO] [pta_run.py(84): perform_and_collect] PID-19492 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:16:35 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-19492 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:16:49 [INFO] [pta_run.py(87): perform_and_collect] PID-19492 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:16:49 [INFO] [pta_run.py(89): perform_and_collect] PID-19492 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:16:49 [INFO] [pta_run.py(91): perform_and_collect] PID-19492 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:22:49 [INFO] [pta_run.py(178): test2] PID-18844 There are 2 cases. [task_list.txt]
+2017-03-24 11:22:49 [INFO] [pta_run.py(84): perform_and_collect] PID-18844 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:22:49 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18844 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:23:04 [INFO] [pta_run.py(87): perform_and_collect] PID-18844 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:23:04 [INFO] [pta_run.py(89): perform_and_collect] PID-18844 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:23:04 [INFO] [pta_run.py(91): perform_and_collect] PID-18844 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:23:04 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-18844 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 120, in draw_runtime_chart
+    ax2.plot(time_since_unique_list, max_rt_list, max_rt_flag, label=maxrt_label)
+  File "C:\Python27\lib\site-packages\matplotlib\__init__.py", line 1819, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_axes.py", line 1382, in plot
+    for line in self._get_lines(*args, **kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 381, in _grab_next_args
+    for seg in self._plot_args(remaining, kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 359, in _plot_args
+    x, y = self._xy_from_xy(x, y)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 219, in _xy_from_xy
+    raise ValueError("x and y must have same first dimension")
+ValueError: x and y must have same first dimension
+2017-03-24 11:23:04 [INFO] [pta_run.py(84): perform_and_collect] PID-18844 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:23:04 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18844 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:23:19 [INFO] [pta_run.py(87): perform_and_collect] PID-18844 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:23:19 [INFO] [pta_run.py(89): perform_and_collect] PID-18844 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:23:19 [INFO] [pta_run.py(91): perform_and_collect] PID-18844 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:23:19 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-18844 Exception occurred when performing task! [2-helloworld]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:\PycharmProjects\py_project_xh\PTA\pta_report_chart.py", line 120, in draw_runtime_chart
+    ax2.plot(time_since_unique_list, max_rt_list, max_rt_flag, label=maxrt_label)
+  File "C:\Python27\lib\site-packages\matplotlib\__init__.py", line 1819, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_axes.py", line 1382, in plot
+    for line in self._get_lines(*args, **kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 381, in _grab_next_args
+    for seg in self._plot_args(remaining, kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 359, in _plot_args
+    x, y = self._xy_from_xy(x, y)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 219, in _xy_from_xy
+    raise ValueError("x and y must have same first dimension")
+ValueError: x and y must have same first dimension
+2017-03-24 11:27:29 [INFO] [pta_run.py(178): test2] PID-19664 There are 2 cases. [task_list.txt]
+2017-03-24 11:27:29 [INFO] [pta_run.py(84): perform_and_collect] PID-19664 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:27:29 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-19664 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:27:44 [INFO] [pta_run.py(87): perform_and_collect] PID-19664 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:27:44 [INFO] [pta_run.py(89): perform_and_collect] PID-19664 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:27:44 [INFO] [pta_run.py(91): perform_and_collect] PID-19664 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:28:46 [INFO] [pta_run.py(178): test2] PID-15980 There are 2 cases. [task_list.txt]
+2017-03-24 11:28:46 [INFO] [pta_run.py(84): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:28:46 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:29:03 [INFO] [pta_run.py(87): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:29:03 [INFO] [pta_run.py(89): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:29:03 [INFO] [pta_run.py(91): perform_and_collect] PID-15980 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:31:54 [ERROR] [pta_run.py(135): multiple_case_single_run] PID-15980 Exception occurred when performing task! [1-call_java_method_test]
+Traceback (most recent call last):
+  File "E:/PycharmProjects/py_project_xh/PTA/pta_run.py", line 131, in multiple_case_single_run
+    draw_runtime_chart(result_dict, father_work_directory, chart_file_name=task_dict.get("testcase_name_unique") + ".png")
+  File "E:/PycharmProjects/py_project_xh/PTA\pta_report_chart.py", line 121, in draw_runtime_chart
+    ax2.plot(time_since_unique_list, max_rt_list, max_rt_flag, label=maxrt_label)
+  File "C:\Python27\lib\site-packages\matplotlib\__init__.py", line 1819, in inner
+    return func(ax, *args, **kwargs)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_axes.py", line 1382, in plot
+    for line in self._get_lines(*args, **kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 381, in _grab_next_args
+    for seg in self._plot_args(remaining, kwargs):
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 359, in _plot_args
+    x, y = self._xy_from_xy(x, y)
+  File "C:\Python27\lib\site-packages\matplotlib\axes\_base.py", line 219, in _xy_from_xy
+    raise ValueError("x and y must have same first dimension")
+ValueError: x and y must have same first dimension
+2017-03-24 11:31:54 [INFO] [pta_run.py(84): perform_and_collect] PID-15980 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:31:54 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-15980 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:32:09 [INFO] [pta_run.py(87): perform_and_collect] PID-15980 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:32:09 [INFO] [pta_run.py(89): perform_and_collect] PID-15980 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:32:09 [INFO] [pta_run.py(91): perform_and_collect] PID-15980 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:36:18 [INFO] [pta_run.py(178): test2] PID-21608 There are 2 cases. [task_list.txt]
+2017-03-24 11:36:18 [INFO] [pta_run.py(84): perform_and_collect] PID-21608 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:36:18 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-21608 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:36:33 [INFO] [pta_run.py(87): perform_and_collect] PID-21608 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:36:33 [INFO] [pta_run.py(89): perform_and_collect] PID-21608 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:36:33 [INFO] [pta_run.py(91): perform_and_collect] PID-21608 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:36:34 [INFO] [pta_run.py(84): perform_and_collect] PID-21608 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:36:34 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-21608 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:36:50 [INFO] [pta_run.py(87): perform_and_collect] PID-21608 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:36:50 [INFO] [pta_run.py(89): perform_and_collect] PID-21608 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:36:50 [INFO] [pta_run.py(91): perform_and_collect] PID-21608 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:37:37 [INFO] [pta_run.py(178): test2] PID-23468 There are 2 cases. [task_list.txt]
+2017-03-24 11:37:37 [INFO] [pta_run.py(84): perform_and_collect] PID-23468 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:37:37 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-23468 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:37:52 [INFO] [pta_run.py(87): perform_and_collect] PID-23468 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:37:52 [INFO] [pta_run.py(89): perform_and_collect] PID-23468 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:37:52 [INFO] [pta_run.py(91): perform_and_collect] PID-23468 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:37:53 [INFO] [pta_run.py(84): perform_and_collect] PID-23468 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:37:53 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-23468 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:38:08 [INFO] [pta_run.py(87): perform_and_collect] PID-23468 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:38:08 [INFO] [pta_run.py(89): perform_and_collect] PID-23468 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:38:08 [INFO] [pta_run.py(91): perform_and_collect] PID-23468 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:44:17 [INFO] [pta_run.py(178): test2] PID-20988 There are 2 cases. [task_list.txt]
+2017-03-24 11:44:17 [INFO] [pta_run.py(84): perform_and_collect] PID-20988 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:44:17 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-20988 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:44:33 [INFO] [pta_run.py(87): perform_and_collect] PID-20988 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:44:33 [INFO] [pta_run.py(89): perform_and_collect] PID-20988 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:44:33 [INFO] [pta_run.py(91): perform_and_collect] PID-20988 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:44:33 [INFO] [pta_run.py(84): perform_and_collect] PID-20988 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:44:33 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-20988 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:44:48 [INFO] [pta_run.py(87): perform_and_collect] PID-20988 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:44:48 [INFO] [pta_run.py(89): perform_and_collect] PID-20988 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:44:48 [INFO] [pta_run.py(91): perform_and_collect] PID-20988 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:45:33 [INFO] [pta_run.py(178): test2] PID-22612 There are 2 cases. [task_list.txt]
+2017-03-24 11:45:33 [INFO] [pta_run.py(84): perform_and_collect] PID-22612 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:45:33 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-22612 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:45:48 [INFO] [pta_run.py(87): perform_and_collect] PID-22612 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:45:48 [INFO] [pta_run.py(89): perform_and_collect] PID-22612 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:45:48 [INFO] [pta_run.py(91): perform_and_collect] PID-22612 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:45:48 [INFO] [pta_run.py(84): perform_and_collect] PID-22612 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:45:49 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-22612 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:46:04 [INFO] [pta_run.py(87): perform_and_collect] PID-22612 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:46:04 [INFO] [pta_run.py(89): perform_and_collect] PID-22612 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:46:04 [INFO] [pta_run.py(91): perform_and_collect] PID-22612 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:46:42 [INFO] [pta_run.py(178): test2] PID-18876 There are 2 cases. [task_list.txt]
+2017-03-24 11:46:42 [INFO] [pta_run.py(84): perform_and_collect] PID-18876 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:46:42 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18876 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:46:57 [INFO] [pta_run.py(87): perform_and_collect] PID-18876 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:46:57 [INFO] [pta_run.py(89): perform_and_collect] PID-18876 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:46:57 [INFO] [pta_run.py(91): perform_and_collect] PID-18876 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:46:57 [INFO] [pta_run.py(84): perform_and_collect] PID-18876 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:46:57 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-18876 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:47:12 [INFO] [pta_run.py(87): perform_and_collect] PID-18876 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:47:12 [INFO] [pta_run.py(89): perform_and_collect] PID-18876 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:47:12 [INFO] [pta_run.py(91): perform_and_collect] PID-18876 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:49:46 [INFO] [pta_run.py(178): test2] PID-22516 There are 2 cases. [task_list.txt]
+2017-03-24 11:49:46 [INFO] [pta_run.py(84): perform_and_collect] PID-22516 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:49:46 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-22516 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:50:01 [INFO] [pta_run.py(87): perform_and_collect] PID-22516 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:50:01 [INFO] [pta_run.py(89): perform_and_collect] PID-22516 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:50:01 [INFO] [pta_run.py(91): perform_and_collect] PID-22516 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:52:13 [INFO] [pta_run.py(84): perform_and_collect] PID-22516 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:52:13 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-22516 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:52:28 [INFO] [pta_run.py(87): perform_and_collect] PID-22516 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:52:28 [INFO] [pta_run.py(89): perform_and_collect] PID-22516 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:52:28 [INFO] [pta_run.py(91): perform_and_collect] PID-22516 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 11:53:52 [INFO] [pta_run.py(178): test2] PID-23592 There are 2 cases. [task_list.txt]
+2017-03-24 11:53:52 [INFO] [pta_run.py(84): perform_and_collect] PID-23592 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 11:53:52 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-23592 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:54:08 [INFO] [pta_run.py(87): perform_and_collect] PID-23592 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 11:54:08 [INFO] [pta_run.py(89): perform_and_collect] PID-23592 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 11:54:08 [INFO] [pta_run.py(91): perform_and_collect] PID-23592 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 11:54:08 [INFO] [pta_run.py(84): perform_and_collect] PID-23592 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 11:54:08 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-23592 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 11:54:25 [INFO] [pta_run.py(87): perform_and_collect] PID-23592 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 11:54:25 [INFO] [pta_run.py(89): perform_and_collect] PID-23592 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 11:54:25 [INFO] [pta_run.py(91): perform_and_collect] PID-23592 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 13:02:27 [INFO] [pta_run.py(178): test2] PID-31452 There are 2 cases. [task_list.txt]
+2017-03-24 13:02:27 [INFO] [pta_run.py(84): perform_and_collect] PID-31452 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 13:02:27 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-31452 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:02:42 [INFO] [pta_run.py(87): perform_and_collect] PID-31452 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 13:02:42 [INFO] [pta_run.py(89): perform_and_collect] PID-31452 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 13:02:42 [INFO] [pta_run.py(91): perform_and_collect] PID-31452 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 13:02:43 [INFO] [pta_run.py(84): perform_and_collect] PID-31452 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 13:02:43 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-31452 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 1
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:02:58 [INFO] [pta_run.py(87): perform_and_collect] PID-31452 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 13:02:58 [INFO] [pta_run.py(89): perform_and_collect] PID-31452 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 13:02:58 [INFO] [pta_run.py(91): perform_and_collect] PID-31452 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 13:04:52 [INFO] [pta_run.py(178): test2] PID-29520 There are 2 cases. [task_list.txt]
+2017-03-24 13:04:52 [INFO] [pta_run.py(84): perform_and_collect] PID-29520 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 13:04:52 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-29520 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:05:07 [INFO] [pta_run.py(87): perform_and_collect] PID-29520 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 13:05:07 [INFO] [pta_run.py(89): perform_and_collect] PID-29520 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 13:05:07 [INFO] [pta_run.py(91): perform_and_collect] PID-29520 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 13:05:08 [INFO] [pta_run.py(84): perform_and_collect] PID-29520 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 13:05:08 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-29520 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:05:26 [INFO] [pta_run.py(87): perform_and_collect] PID-29520 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 13:05:26 [INFO] [pta_run.py(89): perform_and_collect] PID-29520 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 13:05:26 [INFO] [pta_run.py(91): perform_and_collect] PID-29520 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 13:08:43 [INFO] [pta_run.py(178): test2] PID-32472 There are 2 cases. [task_list.txt]
+2017-03-24 13:08:43 [INFO] [pta_run.py(84): perform_and_collect] PID-32472 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 13:08:44 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-32472 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:08:59 [INFO] [pta_run.py(87): perform_and_collect] PID-32472 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 13:08:59 [INFO] [pta_run.py(89): perform_and_collect] PID-32472 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 13:08:59 [INFO] [pta_run.py(91): perform_and_collect] PID-32472 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 13:09:00 [INFO] [pta_run.py(84): perform_and_collect] PID-32472 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 13:09:00 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-32472 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:09:16 [INFO] [pta_run.py(87): perform_and_collect] PID-32472 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 13:09:16 [INFO] [pta_run.py(89): perform_and_collect] PID-32472 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 13:09:16 [INFO] [pta_run.py(91): perform_and_collect] PID-32472 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 13:55:59 [INFO] [pta_run.py(178): test2] PID-39612 There are 2 cases. [task_list.txt]
+2017-03-24 13:55:59 [INFO] [pta_run.py(84): perform_and_collect] PID-39612 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 13:55:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-39612 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:56:14 [INFO] [pta_run.py(87): perform_and_collect] PID-39612 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 13:56:14 [INFO] [pta_run.py(89): perform_and_collect] PID-39612 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 13:56:14 [INFO] [pta_run.py(91): perform_and_collect] PID-39612 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 13:56:15 [INFO] [pta_run.py(84): perform_and_collect] PID-39612 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 13:56:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-39612 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:56:33 [INFO] [pta_run.py(87): perform_and_collect] PID-39612 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 13:56:33 [INFO] [pta_run.py(89): perform_and_collect] PID-39612 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 13:56:33 [INFO] [pta_run.py(91): perform_and_collect] PID-39612 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 13:59:31 [INFO] [pta_run.py(178): test2] PID-16128 There are 2 cases. [task_list.txt]
+2017-03-24 13:59:31 [INFO] [pta_run.py(84): perform_and_collect] PID-16128 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 13:59:31 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16128 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 13:59:46 [INFO] [pta_run.py(87): perform_and_collect] PID-16128 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 13:59:46 [INFO] [pta_run.py(89): perform_and_collect] PID-16128 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 13:59:46 [INFO] [pta_run.py(91): perform_and_collect] PID-16128 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 13:59:47 [INFO] [pta_run.py(84): perform_and_collect] PID-16128 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 13:59:47 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-16128 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:00:05 [INFO] [pta_run.py(87): perform_and_collect] PID-16128 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 14:00:05 [INFO] [pta_run.py(89): perform_and_collect] PID-16128 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 14:00:05 [INFO] [pta_run.py(91): perform_and_collect] PID-16128 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 14:01:43 [INFO] [pta_run.py(178): test2] PID-38828 There are 2 cases. [task_list.txt]
+2017-03-24 14:01:43 [INFO] [pta_run.py(84): perform_and_collect] PID-38828 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 14:01:43 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-38828 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:01:58 [INFO] [pta_run.py(87): perform_and_collect] PID-38828 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 14:01:58 [INFO] [pta_run.py(89): perform_and_collect] PID-38828 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 14:01:58 [INFO] [pta_run.py(91): perform_and_collect] PID-38828 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 14:01:59 [INFO] [pta_run.py(84): perform_and_collect] PID-38828 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 14:01:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-38828 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:02:16 [INFO] [pta_run.py(87): perform_and_collect] PID-38828 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 14:02:16 [INFO] [pta_run.py(89): perform_and_collect] PID-38828 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 14:02:16 [INFO] [pta_run.py(91): perform_and_collect] PID-38828 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 14:04:59 [INFO] [pta_run.py(178): test2] PID-40380 There are 2 cases. [task_list.txt]
+2017-03-24 14:04:59 [INFO] [pta_run.py(84): perform_and_collect] PID-40380 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 14:04:59 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-40380 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:05:14 [INFO] [pta_run.py(87): perform_and_collect] PID-40380 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 14:05:14 [INFO] [pta_run.py(89): perform_and_collect] PID-40380 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 14:05:14 [INFO] [pta_run.py(91): perform_and_collect] PID-40380 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 14:05:15 [INFO] [pta_run.py(84): perform_and_collect] PID-40380 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 14:05:15 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-40380 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:05:34 [INFO] [pta_run.py(87): perform_and_collect] PID-40380 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 14:05:34 [INFO] [pta_run.py(89): perform_and_collect] PID-40380 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 14:05:34 [INFO] [pta_run.py(91): perform_and_collect] PID-40380 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 14:16:25 [INFO] [pta_run.py(178): test2] PID-41900 There are 2 cases. [task_list.txt]
+2017-03-24 14:16:25 [INFO] [pta_run.py(84): perform_and_collect] PID-41900 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 14:16:25 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-41900 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:16:41 [INFO] [pta_run.py(87): perform_and_collect] PID-41900 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 14:16:41 [INFO] [pta_run.py(89): perform_and_collect] PID-41900 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 14:16:41 [INFO] [pta_run.py(91): perform_and_collect] PID-41900 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 14:16:42 [INFO] [pta_run.py(84): perform_and_collect] PID-41900 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 14:16:42 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-41900 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:16:59 [INFO] [pta_run.py(87): perform_and_collect] PID-41900 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 14:16:59 [INFO] [pta_run.py(89): perform_and_collect] PID-41900 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 14:16:59 [INFO] [pta_run.py(91): perform_and_collect] PID-41900 [Task: 2-helloworld] collect_testing_result is finished...
+2017-03-24 14:18:20 [INFO] [pta_run.py(178): test2] PID-36080 There are 2 cases. [task_list.txt]
+2017-03-24 14:18:20 [INFO] [pta_run.py(84): perform_and_collect] PID-36080 [Task: 1-call_java_method_test] pta_core.perform is starting...
+2017-03-24 14:18:20 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-36080 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\java\call_java_method_test.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:18:35 [INFO] [pta_run.py(87): perform_and_collect] PID-36080 [Task: 1-call_java_method_test] pta_core.perform is finished.
+2017-03-24 14:18:35 [INFO] [pta_run.py(89): perform_and_collect] PID-36080 [Task: 1-call_java_method_test] collect_testing_result is starting...
+2017-03-24 14:18:35 [INFO] [pta_run.py(91): perform_and_collect] PID-36080 [Task: 1-call_java_method_test] collect_testing_result is finished...
+2017-03-24 14:18:36 [INFO] [pta_run.py(84): perform_and_collect] PID-36080 [Task: 2-helloworld] pta_core.perform is starting...
+2017-03-24 14:18:36 [INFO] [pta_core.py(124): _update_grinder_properties_file] PID-36080 
+script_file = E:\PycharmProjects\py_project_xh\PTA\scripts\demo\helloworld.py
+grinder_threads = 10
+grinder_duration = 10(s)
+grinder_runs = 0
+2017-03-24 14:18:53 [INFO] [pta_run.py(87): perform_and_collect] PID-36080 [Task: 2-helloworld] pta_core.perform is finished.
+2017-03-24 14:18:53 [INFO] [pta_run.py(89): perform_and_collect] PID-36080 [Task: 2-helloworld] collect_testing_result is starting...
+2017-03-24 14:18:53 [INFO] [pta_run.py(91): perform_and_collect] PID-36080 [Task: 2-helloworld] collect_testing_result is finished...

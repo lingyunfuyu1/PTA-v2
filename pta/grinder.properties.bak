@@ -1,0 +1,9 @@
+grinder.useConsole = false
+grinder.logDirectory = E:/PycharmProjects/py_project_xh/PTA-v2/pta/result/test/20170331173815/3-http_local
+grinder.numberOfOldLogs = 7
+grinder.script = E:/PycharmProjects/py_project_xh/PTA-v2/pta/scripts/http/http_local.py
+grinder.jvm.classpath = E:/PycharmProjects/py_project_xh/PTA-v2/pta/scripts/http/*
+grinder.processes = 1
+grinder.threads = 10
+grinder.duration = 300000
+grinder.runs = 0

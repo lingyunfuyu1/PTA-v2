@@ -1,0 +1,64 @@
+2017-03-31 17:26:10,992 INFO  HIH-L-1603-0 : The Grinder version 3.11
+2017-03-31 17:26:11,007 INFO  HIH-L-1603-0 : Java(TM) SE Runtime Environment 1.8.0_112-b15: Java HotSpot(TM) 64-Bit Server VM (25.112-b15, mixed mode) on Windows 7 amd64 6.1
+2017-03-31 17:26:11,018 INFO  HIH-L-1603-0 : time zone is CST (+0800)
+2017-03-31 17:26:11,125 INFO  HIH-L-1603-0 : worker process 0
+2017-03-31 17:26:11,202 INFO  HIH-L-1603-0 : instrumentation agents: byte code transforming instrumenter for Jython 2.5; byte code transforming instrumenter for Java
+2017-03-31 17:26:14,153 INFO  HIH-L-1603-0 : running "scripts\java\call_java_method.py" using Jython 2.5.3 (2.5:c56500f08d34+, Aug 13 2012, 14:54:35) 
+[Java HotSpot(TM) 64-Bit Server VM (Oracle Corporation)]
+2017-03-31 17:26:14,175 INFO  HIH-L-1603-0 thread-1: starting, will run forever
+2017-03-31 17:26:14,177 INFO  HIH-L-1603-0 thread-8: starting, will run forever
+2017-03-31 17:26:14,177 INFO  HIH-L-1603-0 thread-4: starting, will run forever
+2017-03-31 17:26:14,177 INFO  HIH-L-1603-0 thread-0: starting, will run forever
+2017-03-31 17:26:14,177 INFO  HIH-L-1603-0 thread-6: starting, will run forever
+2017-03-31 17:26:14,178 INFO  HIH-L-1603-0 thread-5: starting, will run forever
+2017-03-31 17:26:14,178 INFO  HIH-L-1603-0 thread-9: starting, will run forever
+2017-03-31 17:26:14,179 INFO  HIH-L-1603-0 thread-3: starting, will run forever
+2017-03-31 17:26:14,179 INFO  HIH-L-1603-0 thread-7: starting, will run forever
+2017-03-31 17:26:14,179 INFO  HIH-L-1603-0 thread-2: starting, will run forever
+2017-03-31 17:26:14,179 INFO  HIH-L-1603-0 : start time is 1490952374179 ms since Epoch
+2017-03-31 17:26:14,184 INFO  HIH-L-1603-0 thread-2 [ run-0 ]: sleeping for 200 ms
+2017-03-31 17:26:14,185 INFO  HIH-L-1603-0 thread-7 [ run-0 ]: sleeping for 700 ms
+2017-03-31 17:26:14,185 INFO  HIH-L-1603-0 thread-3 [ run-0 ]: sleeping for 300 ms
+2017-03-31 17:26:14,186 INFO  HIH-L-1603-0 thread-9 [ run-0 ]: sleeping for 900 ms
+2017-03-31 17:26:14,187 INFO  HIH-L-1603-0 thread-5 [ run-0 ]: sleeping for 500 ms
+2017-03-31 17:26:14,187 INFO  HIH-L-1603-0 thread-6 [ run-0 ]: sleeping for 600 ms
+2017-03-31 17:26:14,188 INFO  HIH-L-1603-0 thread-4 [ run-0 ]: sleeping for 400 ms
+2017-03-31 17:26:14,188 INFO  HIH-L-1603-0 thread-8 [ run-0 ]: sleeping for 800 ms
+2017-03-31 17:26:14,188 INFO  HIH-L-1603-0 thread-1 [ run-0 ]: sleeping for 100 ms
+2017-03-31 17:31:14,198 INFO  HIH-L-1603-0 thread-7 [ run-1495 ]: shut down
+2017-03-31 17:31:14,198 INFO  HIH-L-1603-0 thread-7: finished 1495 runs
+2017-03-31 17:31:14,211 INFO  HIH-L-1603-0 thread-0 [ run-1495 ]: shut down
+2017-03-31 17:31:14,212 INFO  HIH-L-1603-0 thread-0: finished 1495 runs
+2017-03-31 17:31:14,215 INFO  HIH-L-1603-0 thread-6 [ run-1494 ]: shut down
+2017-03-31 17:31:14,215 INFO  HIH-L-1603-0 thread-6: finished 1494 runs
+2017-03-31 17:31:14,232 INFO  HIH-L-1603-0 thread-5 [ run-1495 ]: shut down
+2017-03-31 17:31:14,232 INFO  HIH-L-1603-0 thread-5: finished 1495 runs
+2017-03-31 17:31:14,277 INFO  HIH-L-1603-0 thread-4 [ run-1493 ]: shut down
+2017-03-31 17:31:14,278 INFO  HIH-L-1603-0 thread-4: finished 1493 runs
+2017-03-31 17:31:14,284 INFO  HIH-L-1603-0 thread-1 [ run-1496 ]: shut down
+2017-03-31 17:31:14,284 INFO  HIH-L-1603-0 thread-1: finished 1496 runs
+2017-03-31 17:31:14,323 INFO  HIH-L-1603-0 thread-2 [ run-1497 ]: shut down
+2017-03-31 17:31:14,323 INFO  HIH-L-1603-0 thread-2: finished 1497 runs
+2017-03-31 17:31:14,330 INFO  HIH-L-1603-0 thread-8 [ run-1495 ]: shut down
+2017-03-31 17:31:14,330 INFO  HIH-L-1603-0 thread-8: finished 1495 runs
+2017-03-31 17:31:14,347 INFO  HIH-L-1603-0 thread-9 [ run-1495 ]: shut down
+2017-03-31 17:31:14,348 INFO  HIH-L-1603-0 thread-9: finished 1495 runs
+2017-03-31 17:31:14,364 INFO  HIH-L-1603-0 thread-3 [ run-1498 ]: shut down
+2017-03-31 17:31:14,364 INFO  HIH-L-1603-0 thread-3: finished 1498 runs
+2017-03-31 17:31:14,366 INFO  HIH-L-1603-0 : elapsed time is 300171 ms
+2017-03-31 17:31:14,366 INFO  HIH-L-1603-0 : Final statistics for this process:
+2017-03-31 17:31:14,372 INFO  HIH-L-1603-0 : 
+             Tests        Errors       Mean Test    Test Time    TPS          
+                                       Time (ms)    Standard                  
+                                                    Deviation                 
+                                                    (ms)                      
+
+Test 1       14953        0            200.24       6.36         49.81         "call_java_method"
+
+Totals       14953        0            200.24       6.36         49.81        
+
+  Tests resulting in error only contribute to the Errors column.          
+  Statistics for individual tests can be found in the data file, including
+  (possibly incomplete) statistics for erroneous tests. Composite tests   
+  are marked with () and not included in the totals.                      
+
