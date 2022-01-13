@@ -30,7 +30,7 @@ def mail(receiver_list, subject, content, image_list=[], attachment_list=[], sen
     """
     mail_host = "smtp.163.com"
     mail_user = "testcaojl@163.com"
-    mail_pass = "perf2016"
+    mail_pass = "mail password"
 
     message = MIMEMultipart("related")
     message['Subject'] = subject
